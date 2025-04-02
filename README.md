@@ -20,9 +20,9 @@ Quick project student registration form! This **mini PHP-based practice code** f
 
 ## 📌 How to Use
 1️⃣ **Download the files** and place them in a PHP-supported environment (XAMPP, WAMP, or any local server).  
-2️⃣ **Open `register.php`** in your browser.  
+2️⃣ **Open `form.php`** in your browser.  
 3️⃣ **Fill in your details** – Name, Email, Age, and Course.  
-4️⃣ **Click "Register"** – Your details will be displayed instantly on `studentdata.php`. 🎉
+4️⃣ **Click "Register"** – Your details will be displayed instantly on `submit.php`. 🎉
 
 ---
 
